@@ -1,0 +1,28 @@
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\ProdutoApi _2.1\ProdutoApi\ProdutoApi\bin\Debug\netcoreapp2.1\ProdutoApi.deps.json
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\ProdutoApi _2.1\ProdutoApi\ProdutoApi\bin\Debug\netcoreapp2.1\ProdutoApi.runtimeconfig.json
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\ProdutoApi _2.1\ProdutoApi\ProdutoApi\bin\Debug\netcoreapp2.1\ProdutoApi.runtimeconfig.dev.json
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\ProdutoApi _2.1\ProdutoApi\ProdutoApi\bin\Debug\netcoreapp2.1\ProdutoApi.dll
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\ProdutoApi _2.1\ProdutoApi\ProdutoApi\bin\Debug\netcoreapp2.1\ProdutoApi.pdb
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\ProdutoApi _2.1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.csprojAssemblyReference.cache
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\ProdutoApi _2.1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.csproj.CoreCompileInputs.cache
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\ProdutoApi _2.1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.RazorAssemblyInfo.cache
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\ProdutoApi _2.1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.RazorAssemblyInfo.cs
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\ProdutoApi _2.1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.AssemblyInfoInputs.cache
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\ProdutoApi _2.1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.AssemblyInfo.cs
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\ProdutoApi _2.1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.RazorTargetAssemblyInfo.cache
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\ProdutoApi _2.1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.dll
+C:\Users\ab1239450\Documents\Faculdade\Automação\Aula 7 - Pipeline Azure\ProdutoApi _2.1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.pdb
+E:\ProdutoApi _2.1\ProdutoApi\ProdutoApi\bin\Debug\netcoreapp2.1\ProdutoApi.deps.json
+E:\ProdutoApi _2.1\ProdutoApi\ProdutoApi\bin\Debug\netcoreapp2.1\ProdutoApi.runtimeconfig.json
+E:\ProdutoApi _2.1\ProdutoApi\ProdutoApi\bin\Debug\netcoreapp2.1\ProdutoApi.runtimeconfig.dev.json
+E:\ProdutoApi _2.1\ProdutoApi\ProdutoApi\bin\Debug\netcoreapp2.1\ProdutoApi.dll
+E:\ProdutoApi _2.1\ProdutoApi\ProdutoApi\bin\Debug\netcoreapp2.1\ProdutoApi.pdb
+E:\ProdutoApi _2.1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.csprojAssemblyReference.cache
+E:\ProdutoApi _2.1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.csproj.CoreCompileInputs.cache
+E:\ProdutoApi _2.1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.RazorAssemblyInfo.cache
+E:\ProdutoApi _2.1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.RazorAssemblyInfo.cs
+E:\ProdutoApi _2.1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.AssemblyInfoInputs.cache
+E:\ProdutoApi _2.1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.AssemblyInfo.cs
+E:\ProdutoApi _2.1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.RazorTargetAssemblyInfo.cache
+E:\ProdutoApi _2.1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.dll
+E:\ProdutoApi _2.1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.pdb
