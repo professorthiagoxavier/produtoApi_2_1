@@ -16,6 +16,7 @@ namespace ProdutoApi.Controllers
             var listar = ListarProdutos();
             return Json(listar);
         }
+
         [HttpGet("GetProduto", Name = "GetProdutos")]
         [HttpGet("GetProdutoByid/{id}", Name = "GetProdutoById/(id)")]
 
