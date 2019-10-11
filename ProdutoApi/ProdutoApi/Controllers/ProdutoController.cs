@@ -25,26 +25,7 @@ namespace ProdutoApi.Controllers
             return Json(produto);
         }
 
-        [HttpDelete("{id}")] //deletar
 
-        public async Task<IActionResult> Delete(long id)
-        {
-            return Json("Deletado com sucesso!");
-        }
-
-        [HttpPut] //atualizar
-
-        public async Task<IActionResult> Put([FromBody] ProdutoEntidade value)
-        {
-            return Json("Atualizado com sucesso!");
-        }
-
-        [HttpPost] 
-
-        public async Task<IActionResult> Post([FromBody] ProdutoEntidade value)
-        {
-            return Json("Inserido com sucesso!");
-        }
 
         private List<ProdutoEntidade> ListarProdutos()
         {
