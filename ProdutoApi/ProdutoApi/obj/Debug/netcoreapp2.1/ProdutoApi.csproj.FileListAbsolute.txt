@@ -26,3 +26,17 @@ E:\ProdutoApi _2.1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.Asse
 E:\ProdutoApi _2.1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.RazorTargetAssemblyInfo.cache
 E:\ProdutoApi _2.1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.dll
 E:\ProdutoApi _2.1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.pdb
+C:\projects\produtoApi_2_1\ProdutoApi\ProdutoApi\bin\Debug\netcoreapp2.1\ProdutoApi.deps.json
+C:\projects\produtoApi_2_1\ProdutoApi\ProdutoApi\bin\Debug\netcoreapp2.1\ProdutoApi.runtimeconfig.json
+C:\projects\produtoApi_2_1\ProdutoApi\ProdutoApi\bin\Debug\netcoreapp2.1\ProdutoApi.runtimeconfig.dev.json
+C:\projects\produtoApi_2_1\ProdutoApi\ProdutoApi\bin\Debug\netcoreapp2.1\ProdutoApi.dll
+C:\projects\produtoApi_2_1\ProdutoApi\ProdutoApi\bin\Debug\netcoreapp2.1\ProdutoApi.pdb
+C:\projects\produtoApi_2_1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.csprojAssemblyReference.cache
+C:\projects\produtoApi_2_1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.csproj.CoreCompileInputs.cache
+C:\projects\produtoApi_2_1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.RazorAssemblyInfo.cache
+C:\projects\produtoApi_2_1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.RazorAssemblyInfo.cs
+C:\projects\produtoApi_2_1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.AssemblyInfoInputs.cache
+C:\projects\produtoApi_2_1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.AssemblyInfo.cs
+C:\projects\produtoApi_2_1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.RazorTargetAssemblyInfo.cache
+C:\projects\produtoApi_2_1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.dll
+C:\projects\produtoApi_2_1\ProdutoApi\ProdutoApi\obj\Debug\netcoreapp2.1\ProdutoApi.pdb
